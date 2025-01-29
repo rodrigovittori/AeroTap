@@ -8,8 +8,8 @@
 - 📂 **Repositorio en GitHub**: [Ver en GitHub](https://github.com/rodrigovittori/AeroTap)
 - 🌍 **Proyecto publicado en Kodland HUB**: [Ver en Kodland HUB](https://hub.kodland.org/project/342816)
 - 📘 **Guía para publicar en Kodland HUB**: [Ver en Genially](https://view.genially.com/66bc491acfb9611ccbfae087/presentation-esp-hub-unity)
-- 🎮 **Proyecto publicado en itch.io**: *(Pendiente)*
-- 🎥 **Tutorial "¿Cómo publicar en itch.io?"**: *(Pendiente)*
+- 🎮 **Proyecto publicado en itch.io**: [Ver en itch.io] (https://rodrigovittori.itch.io/aerotap) 
+- 🎥 **Tutorial "¿Cómo publicar en itch.io?"**: [Ver en YouTube] (https://youtu.be/8tfqkAKaeGE)
 - 🎨 **Pack de assets utilizados**: [Tappy Plane - Kenney](https://kenney.nl/assets/tappy-plane)
 
 ---
