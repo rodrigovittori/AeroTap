@@ -3,7 +3,7 @@
  
  Link video-tutorial: https://youtu.be/GLD8OR0fQgs
  
- Link repositorio en GitHub: {self}
+ Link repositorio en GitHub: https://github.com/rodrigovittori/AeroTap
  
  Link proyecto publicado en Kodland HUB: https://hub.kodland.org/project/342816
  Link video-tutorial "¿cómo publicar mi juego en el Kodland HUB?": {pendiente}
