@@ -30,6 +30,7 @@
 
 - Agregar prompt "Pulsa [Espacio] para impulsarte"\
   -> Desactivarlo antes del primer obstáculo
+- Agregar cuenta regresiva antes de comenzar a spawnear osbtáculos
 
 ### 🌄 **Gráficos**
 
